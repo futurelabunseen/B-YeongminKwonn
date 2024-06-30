@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # External assets
 Content/OtherAssets/*
+
+/Content
